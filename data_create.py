@@ -4,7 +4,7 @@ def name_data():
     return name
 
 def surname_data():
-    surname = input('Введите вашу фамилию: ')
+    surname= input('Введите вашу фамилию: ')
     return surname
 
 def phone_data():
